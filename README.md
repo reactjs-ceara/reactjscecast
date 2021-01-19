@@ -7,7 +7,7 @@ Micro "podcasts" da comunidade ReactJS Ceará dentro do Discord.
 
 ## Episódios
 
-### #1 **Mercado VS Iniciantes. O que um espera do outro**
+### #1 **Mercado VS Iniciantes. O que um espera do outro?**
 
 Nesta **quinta-feira(21 janeiro), às 22h**, acontecerá o primeiro episódio do micro podcast "reactjscecast", dentro do [Discord](https://discord.gg/UATDvx5Nh4).
 
